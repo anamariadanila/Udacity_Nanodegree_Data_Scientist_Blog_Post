@@ -78,4 +78,5 @@ and execute all cells in order.
 
 ## 📝 Blog Post
 A detailed summary of this project is available on the blog:
+👉 [Check it here](https://medium.com/@anamaria1616d/what-drives-tech-salaries-in-europe-in-2025-cf1603406fd6?postPublishedType=initial)
 
